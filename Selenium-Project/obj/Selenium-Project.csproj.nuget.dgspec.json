@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj": {}
+    "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj": {}
   },
   "projects": {
-    "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj": {
+    "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
+        "projectUniqueName": "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
         "projectName": "Selenium-Project",
-        "projectPath": "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
-        "packagesPath": "C:\\Users\\Mello\\.nuget\\packages\\",
-        "outputPath": "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\obj\\",
+        "projectPath": "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
+        "packagesPath": "C:\\Users\\josmellon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\josmellon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,19 +42,21 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.5.0, )"
+              "version": "[17.9.0, )"
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.3, )"
+              "version": "[4.1.0, )"
             },
             "NUnit.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.6.1, )"
+              "version": "[4.2.0, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.4.2, )"
+              "version": "[4.5.0, )"
             },
             "Selenium.Support": {
               "target": "Package",
@@ -69,8 +71,10 @@
               "version": "[124.0.6367.20700, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[6.0.2, )"
             }
           },
           "imports": [
@@ -89,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
