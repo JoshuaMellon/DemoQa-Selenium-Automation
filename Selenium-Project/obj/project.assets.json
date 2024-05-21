@@ -911,19 +911,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\josmellon\\.nuget\\packages\\": {}
+    "C:\\Users\\Mello\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
+      "projectUniqueName": "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
       "projectName": "Selenium-Project",
-      "projectPath": "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
-      "packagesPath": "C:\\Users\\josmellon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\obj\\",
+      "projectPath": "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
+      "packagesPath": "C:\\Users\\Mello\\.nuget\\packages\\",
+      "outputPath": "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\josmellon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mello\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1002,7 +1002,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +9,21 @@ using System.Threading.Tasks;
 
 namespace Selenium_Project.Tests.Methods
 {
+    public class Driver
+    {
+        public IWebDriver driver;
+        public StringBuilder verificationErrors;
+
+        public Driver()
+        {
+            driver = new ChromeDriver();
+            verificationErrors = new StringBuilder();
+        }
+
+    }
     public class Intialise
     {
-        public void SeleniumSetup()
+        public static void SeleniumSetup()
         {
             try
             {

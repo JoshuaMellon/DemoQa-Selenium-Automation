@@ -7,25 +7,28 @@ using OpenQA.Selenium.Interactions;
 
 namespace Selenium_Project.Tests
 {
-    public class Tests
-    {
-        IWebDriver driver = new ChromeDriver();
-
+    [TestFixture]
+    public class Tests : Driver
+    { 
         [SetUp]
-        public void Setup(Intialise intialise)
+        public void Setup()
         {
-            intialise.SeleniumSetup();
+            Intialise.SeleniumSetup();
         }
 
         [Test]
         public void OpenSite()
         {
             
-            driver.FindElement(By.XPath("//*[@id=\"app\"]/header/a/img"));
-
-            driver.Quit();
+            driver.FindElement(By.XPath("//*[@id=\"app\"]/header/a"));
 
             Assert.Pass();
+        }
+
+        [TearDown]
+        public void TearDown()
+        {
+            driver.Quit();
         }
     }
 }

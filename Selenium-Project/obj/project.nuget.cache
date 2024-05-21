@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "nj5GcfzIxIPjzycbnaPcTlgt3gOT8XGDw7tI29uSZDCGi+p91eQZri2nQJ5jMh+ssOkoffl7XVOQqXft67AYUg==",
+  "dgSpecHash": "nGWRaaElEvAnC0maPDe8qRoP7THGFDGu20Y6UefIXLnrQKOlCg7ud84TsEyauNoz20aZ+jcATtWrAR4Ky9qnrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josmellon\\OneDrive - CoreLogic Solutions, LLC\\Documents\\GitHub\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
+  "projectFilePath": "D:\\DemoQa-Selenium-Automation\\Selenium-Project\\Selenium-Project.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\josmellon\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\nunit.analyzers\\4.2.0\\nunit.analyzers.4.2.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\selenium.support\\4.20.0\\selenium.support.4.20.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\selenium.webdriver\\4.20.0\\selenium.webdriver.4.20.0.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\selenium.webdriver.chromedriver\\124.0.6367.20700\\selenium.webdriver.chromedriver.124.0.6367.20700.nupkg.sha512",
-    "C:\\Users\\josmellon\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "C:\\Users\\Mello\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\nunit.analyzers\\4.2.0\\nunit.analyzers.4.2.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\selenium.support\\4.20.0\\selenium.support.4.20.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\selenium.webdriver\\4.20.0\\selenium.webdriver.4.20.0.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\selenium.webdriver.chromedriver\\124.0.6367.20700\\selenium.webdriver.chromedriver.124.0.6367.20700.nupkg.sha512",
+    "C:\\Users\\Mello\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
